@@ -1,0 +1,28 @@
+.reel{
+    position: relative;
+    top: 70px;
+    display: flex;
+    background-color: #ececec;
+    height: 600px;
+    padding: 20px;
+
+}
+.reel h6{
+    color: black;
+    text-align: center;
+    margin-left: 66px;
+    
+
+}
+.ok ul{
+    list-style: none;
+    padding: 10px;
+    margin-left: 80px;
+
+}
+.ok ul li{
+    margin-top: 20px;
+    font-size: 13px;
+    color: #848484;
+    
+}
